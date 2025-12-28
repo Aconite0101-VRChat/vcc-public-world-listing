@@ -1,0 +1,3 @@
+[submodule "Packages/user.ikawaayumu.text-localization"]
+	path = Packages/user.ikawaayumu.text-localization
+	url = https://github.com/Aconite0101-VRChat/vrchat-text-localization.git

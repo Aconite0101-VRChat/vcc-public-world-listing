@@ -2,3 +2,4 @@
 !com.vrchat.core.*
 
 # Change this to match your new package name
+!user.ikawaayumu.text-localization
